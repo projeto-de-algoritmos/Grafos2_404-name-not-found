@@ -32,3 +32,6 @@ Imprima uma linha em branco após cada caso de teste.
 |4 5<br>1 2 5<br>2 1 10<br>3 4 8<br>4 3 7<br>2 3 6<br>5<br>1 2<br>1 3<br>1 4<br>4 3<br>4 1<br>3 3<br>1 2 10<br>2 3 1<br>3 2 1<br>3<br>1 3<br>3 1<br>3 2<br>0 0 | 0<br>6<br>6<br>0<br>Nao e possivel entregar a carta<br><br><br>10<br>Nao e possivel entregar a carta<br>0<br><br>|
 
 ### Resultado
+
+![image](https://user-images.githubusercontent.com/33001620/205466226-e89cc6ca-f0bf-40d7-a969-73b2a609c9db.png)
+
