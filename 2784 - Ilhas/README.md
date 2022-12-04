@@ -31,4 +31,5 @@ Seu programa deve produzir um inteiro representando a diferença entre o ping da
 
 ### Resultado
 
+![image](https://user-images.githubusercontent.com/33001620/205501078-8b508967-9fe6-4b20-95f0-f01400a31817.png)
 
