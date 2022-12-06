@@ -13,7 +13,7 @@
 
 Esse projeto tem como objetivo trazer a resolução de questões de programação competitiva utilizando grafos.
 
-Foram resolvidas 6 questões retiradas do Juíz online [Beecrowd](https://www.beecrowd.com.br/).
+Foram resolvidas 4 questões retiradas do Juíz online [Beecrowd](https://www.beecrowd.com.br/).
 
 Cada questão está em uma pasta, onde se encontra um README com a descrição do problema, bem como exemplos de entrada e saída. E o veredito recebido do juíz online.
 
@@ -22,19 +22,19 @@ Cada questão está em uma pasta, onde se encontra um README com a descrição d
 
  - Execução da questão [1148 - Países em Guerra](https://github.com/projeto-de-algoritmos/Grafos2_404-name-not-found/tree/master/1148%20-%20Pa%C3%ADses%20em%20Guerra) em C++. <br>
  
- ![image]()
+![image](https://user-images.githubusercontent.com/33001620/205786809-a72ba850-b41a-412e-933b-524e7b42b611.png)
  
  - Execução da questão [1152 - Estradas Escuras](https://github.com/projeto-de-algoritmos/Grafos2_404-name-not-found/tree/master/1152%20-%20Estradas%20Escuras) em Python. <br>
  
- ![image]()
+![image](https://user-images.githubusercontent.com/33001620/205786949-0bcd8a42-7054-458d-b37d-9642596464f4.png)
  
  - Execução da questão [1423 - A aventura de Super Mario](https://github.com/projeto-de-algoritmos/Grafos2_404-name-not-found/tree/master/1423%20-%20A%20aventura%20de%20Super%20Mario) em Python. <br>
  
- ![image]()
+![image](https://user-images.githubusercontent.com/33001620/205787021-24b3dd44-3939-451a-a097-9cb4d3a1a05d.png)
 
  - Execução da questão [2784 - Ilhas](https://github.com/projeto-de-algoritmos/Grafos2_404-name-not-found/tree/master/2784%20-%20Ilhas) em Python. <br>
  
- ![image]()
+ ![image](https://user-images.githubusercontent.com/33001620/205787245-b48f3589-2816-47b1-87c4-5607a9237084.png)
 
 
 ## Instalação 
